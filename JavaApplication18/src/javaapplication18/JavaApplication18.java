@@ -13,7 +13,7 @@ public static void main(String[] args) {
     System.out.println("Nombre: " + per.getnombre() );
     System.out.println("DNI: "+ per.getDNI());
     System.out.println("Edad: " + per.getedad() );
-    System.out.println("Provincia: " + per.getprov().getnombreProv() );
+    System.out.println("Codigo de Provincia: " + per.getprov().getcodigoProv() );
     }
    
 }
