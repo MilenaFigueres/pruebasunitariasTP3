@@ -3,7 +3,7 @@ package javaapplication18;
 
 public class Persona {
 
-private int DNI;
+private int DNI; // Dni de la persona
 private String nombre;
 private int edad;
 private Provincia prov;
